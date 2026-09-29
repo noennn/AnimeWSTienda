@@ -1,0 +1,76 @@
+{
+   "versions":{
+      "QW5pbWVGTFYsQW5pbWVXUywyMDIxLTA0LTIwIDE1OjQzOjAw":{
+         "release":"animeflv",
+         "2.2.10":{
+            "changelog":"•Test"
+         }
+      },
+      "SktBbmltZSxBbmltZVdTLDIwMTktMDktMTkgMTQ6NDA6MDA=":{
+         "release":"jkanime",
+         "2.2.6":{
+            "changelog":"•Fix Nozomi"
+         }
+      },
+      "SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=":{
+         "release":"hentaila",
+         "2.2.2":{
+            "changelog":"•Nuevo servidor de video"
+         }
+      },
+      "TW9ub3NDaGlub3MsQW5pbWVXUywyMDIxLTA1LTA2IDIxOjU1OjAw":{
+         "release":"monoschinos",
+         "2.1.5":{
+            "changelog":"•Fix module"
+         }
+      },
+      "TGVjdG9yVE1PLEFuaW1lV1MsMjAyMS0wNS0xMSAyMTo0NjowMA==":{
+         "release":"lectortmo",
+         "2.2.1":{
+            "changelog":"•update v2"
+         }
+      },
+      "VE1PSGVudGFpLEFuaW1lV1MsMjAyMS0wNS0yMCAxMzo1ODowMA==":{
+         "release":"tmohentai",
+         "1.1.2":{
+            "changelog":"•Generos agregados"
+         }
+      },
+      "TGVjdG9yTWFuZ2EsQW5pbWVXUywyMDIxLTA2LTA1IDIxOjU1OjAw":{
+         "release":"lectormanga",
+         "1.1.2":{
+            "changelog":"•fix imagen"
+         }
+      },
+      "VGlvSGVudGFpLEFuaW1lV1MsMjAyMS0wNi0yNCAxMzoyMDowMA==":{
+         "release":"tiohentai",
+         "1.0.0":{
+            "changelog":"•TioHentai"
+         }
+      },
+      "QW5pbWVGbGFzaCxBbmltZVdTLDIwMjEtMDYtMjggMTg6NDg6MDA=":{
+         "release":"animeflash",
+         "1.0.0":{
+            "changelog":"•AnimeFlash"
+         }
+      },
+      "TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=":{
+         "release":"mangasin",
+         "2.0.16":{
+            "changelog":"•Error al mostrar capitulos"
+         }
+      },
+       "QW5pbWVGZW5peCxBbmltZVdTLDIwMjEtMTAtMDkgMzo0MDowMA==":{
+           "release":"animefenix",
+           "1.0.0":{
+               "changelog":"•AnimeFenix"
+           }
+       },
+       "QW5pbWVOaW5qYSxBbmltZVdTLDIwMjItMTAtMjQgMDA6MjE6MDg=":{
+           "release":"animeninja",
+           "2.0.4":{
+               "changelog":"•AnimeNinja"
+           }
+       }
+   }
+}
