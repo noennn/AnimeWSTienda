@@ -185,13 +185,13 @@
     "nombre": "DoramasYT",
     "tipo": "ANIME",
     "descripcion": "DoramasYT.com - voe, mxdrop y mp4upload en el reproductor interno",
-    "file": "DoramasYT-112.wsx",
-    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-112.wsx",
+    "file": "DoramasYT-114.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-114.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/doramasyt-icon2.png",
     "creador": "xd",
     "key": "RG9yYW1hc1lULHhkLDIwMjYtMDktMjkgMTg6MDA6MDA=",
     "launcher": "ws.anime.mod.servers.animews.anime.doramasyt.Main",
-    "version": "1.0.12",
+    "version": "1.0.14",
     "status": "ACTIVE"
   },
   {
@@ -210,14 +210,14 @@
   {
     "nombre": "PornHits",
     "tipo": "ANIME",
-    "descripcion": "PornHits.tv - adultos HD, MP4 directo, busqueda por artista y artistas clicables",
-    "file": "PornHits-103.wsx",
-    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/PornHits-103.wsx",
+    "descripcion": "PornHits.tv - adultos HD, MP4 directo, busqueda corregida y artistas clicables",
+    "file": "PornHits-110.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/PornHits-110.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/pornhits.png",
     "creador": "xd",
     "key": "UG9ybkhpdHMseGQsMjAyNi0wOS0zMCAxMDozMDowMA==",
     "launcher": "ws.anime.mod.servers.animews.adult.pornhits.Main",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "status": "ACTIVE"
   }
 ]
