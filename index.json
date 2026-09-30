@@ -187,7 +187,7 @@
     "descripcion": "DoramasYT.com - voe, mxdrop y mp4upload en el reproductor interno",
     "file": "DoramasYT-112.wsx",
     "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-112.wsx",
-    "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/doramasyt.png",
+    "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/doramasyt-icon2.png",
     "creador": "xd",
     "key": "RG9yYW1hc1lULHhkLDIwMjYtMDktMjkgMTg6MDA6MDA=",
     "launcher": "ws.anime.mod.servers.animews.anime.doramasyt.Main",
@@ -198,13 +198,13 @@
     "nombre": "Cuevana2",
     "tipo": "ANIME",
     "descripcion": "Cuevana2.lat - peliculas y series (voe, streamwish, vidhide, streamtape)",
-    "file": "Cuevana2-100.wsx",
-    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/Cuevana2-100.wsx",
+    "file": "Cuevana2-101.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/Cuevana2-101.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/cuevana2.png",
     "creador": "xd",
     "key": "Q3VldmFuYTIseGQsMjAyNi0wOS0zMCAwMDozMDowMA==",
     "launcher": "ws.anime.mod.servers.animews.peliculas.cuevana2.Main",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "status": "ACTIVE"
   }
 ]
