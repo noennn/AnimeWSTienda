@@ -184,14 +184,14 @@
   {
     "nombre": "DoramasYT",
     "tipo": "ANIME",
-    "descripcion": "Servidor de DoramasYT.com (dramas coreanos, chinos y tailandeses sub español)",
+    "descripcion": "DoramasYT.com - video directo en el reproductor interno (lulu, mxdrop, streamtape, mp4upload)",
     "file": "DoramasYT.wsx",
     "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/doramasyt.png",
     "creador": "xd",
     "key": "RG9yYW1hc1lULHhkLDIwMjYtMDktMjkgMTg6MDA6MDA=",
     "launcher": "ws.anime.mod.servers.animews.anime.doramasyt.Main",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "status": "ACTIVE"
   }
 ]
