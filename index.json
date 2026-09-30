@@ -193,5 +193,18 @@
     "launcher": "ws.anime.mod.servers.animews.anime.doramasyt.Main",
     "version": "1.0.12",
     "status": "ACTIVE"
+  },
+  {
+    "nombre": "Cuevana2",
+    "tipo": "ANIME",
+    "descripcion": "Cuevana2.lat - peliculas y series (voe, streamwish, vidhide, streamtape)",
+    "file": "Cuevana2-100.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/Cuevana2-100.wsx",
+    "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/cuevana2.png",
+    "creador": "xd",
+    "key": "Q3VldmFuYTIseGQsMjAyNi0wOS0zMCAwMDozMDowMA==",
+    "launcher": "ws.anime.mod.servers.animews.peliculas.cuevana2.Main",
+    "version": "1.0.0",
+    "status": "ACTIVE"
   }
 ]
