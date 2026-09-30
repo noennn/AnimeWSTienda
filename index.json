@@ -184,14 +184,14 @@
   {
     "nombre": "DoramasYT",
     "tipo": "ANIME",
-    "descripcion": "DoramasYT.com - video directo en reproductor interno (lulu, mxdrop, streamtape, mp4upload, voe, filemoon)",
-    "file": "DoramasYT-111.wsx",
-    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-111.wsx",
+    "descripcion": "DoramasYT.com - voe, mxdrop y mp4upload en el reproductor interno",
+    "file": "DoramasYT-112.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-112.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/doramasyt.png",
     "creador": "xd",
     "key": "RG9yYW1hc1lULHhkLDIwMjYtMDktMjkgMTg6MDA6MDA=",
     "launcher": "ws.anime.mod.servers.animews.anime.doramasyt.Main",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "status": "ACTIVE"
   }
 ]
