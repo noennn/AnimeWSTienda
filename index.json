@@ -185,13 +185,13 @@
     "nombre": "DoramasYT",
     "tipo": "ANIME",
     "descripcion": "DoramasYT.com - todos los servidores menos mega; video directo (lulu, mxdrop, streamtape, mp4upload)",
-    "file": "DoramasYT-105.wsx",
-    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-105.wsx",
+    "file": "DoramasYT-106.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/DoramasYT-106.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/doramasyt.png",
     "creador": "xd",
     "key": "RG9yYW1hc1lULHhkLDIwMjYtMDktMjkgMTg6MDA6MDA=",
     "launcher": "ws.anime.mod.servers.animews.anime.doramasyt.Main",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "status": "ACTIVE"
   }
 ]
