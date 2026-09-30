@@ -210,14 +210,14 @@
   {
     "nombre": "PornHits",
     "tipo": "ANIME",
-    "descripcion": "PornHits.tv - videos adultos HD (MP4 directo, reproductor interno)",
-    "file": "PornHits-100.wsx",
-    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/PornHits-100.wsx",
+    "descripcion": "PornHits.tv - adultos HD, MP4 directo, busqueda por artista y artistas clicables",
+    "file": "PornHits-103.wsx",
+    "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/PornHits-103.wsx",
     "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/pornhits.png",
     "creador": "xd",
     "key": "UG9ybkhpdHMseGQsMjAyNi0wOS0zMCAxMDozMDowMA==",
     "launcher": "ws.anime.mod.servers.animews.adult.pornhits.Main",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "status": "ACTIVE"
   }
 ]
