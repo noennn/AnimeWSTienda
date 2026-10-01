@@ -224,13 +224,13 @@
       "nombre": "SoloLatino",
       "tipo": "ANIME",
       "descripcion": "SoloLatino.net - peliculas, series, animes y doramas latino (reproductor interno)",
-      "file": "SoloLatino-102.wsx",
-      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/SoloLatino-102.wsx",
+      "file": "SoloLatino-103.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/SoloLatino-103.wsx",
       "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/sololatino.png",
       "creador": "xd",
       "key": "U29sb0xhdGlubyx4ZCwyMDI2LTA5LTMwIDE4OjAzOjI3",
       "launcher": "ws.anime.mod.servers.animews.peliculas.sololatino.Main",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "status": "ACTIVE"
    },
    {
