@@ -224,26 +224,26 @@
       "nombre": "SoloLatino",
       "tipo": "ANIME",
       "descripcion": "SoloLatino.net - peliculas, series, animes y doramas latino (reproductor interno)",
-      "file": "SoloLatino-103.wsx",
-      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/SoloLatino-103.wsx",
+      "file": "SoloLatino-104.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/SoloLatino-104.wsx",
       "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/sololatino.png",
       "creador": "xd",
       "key": "U29sb0xhdGlubyx4ZCwyMDI2LTA5LTMwIDE4OjAzOjI3",
       "launcher": "ws.anime.mod.servers.animews.peliculas.sololatino.Main",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "status": "ACTIVE"
    },
    {
       "nombre": "SeriesMetro",
       "tipo": "ANIME",
       "descripcion": "SeriesMetro.net - series y peliculas latino (fastream en el reproductor interno)",
-      "file": "SeriesMetro-102.wsx",
-      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/SeriesMetro-102.wsx",
+      "file": "SeriesMetro-104.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/SeriesMetro-104.wsx",
       "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/seriesmetro.png",
       "creador": "xd",
       "key": "U2VyaWVzTWV0cm8seGQsMjAyNi0wOS0zMCAxODowMzoyNw==",
       "launcher": "ws.anime.mod.servers.animews.series.seriesmetro.Main",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "status": "ACTIVE"
    }
 ]
