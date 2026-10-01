@@ -130,45 +130,6 @@
       "status": "ACTIVE"
    },
    {
-      "nombre": "MangasIn",
-      "tipo": "MANGA",
-      "descripcion": "Servidor de Mangas.in",
-      "file": "MangaIn.wsx",
-      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/MangaIn.wsx",
-      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/mangasin.png",
-      "creador": "AnimeWS",
-      "key": "TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=",
-      "launcher": "ws.anime.mod.servers.animews.manga.mangasin.Main",
-      "version": "3.3.26",
-      "status": "ACTIVE"
-   },
-   {
-      "nombre": "LeerCapitulo",
-      "tipo": "MANGA",
-      "descripcion": "Servidor de LeerCapitulo.co",
-      "file": "LeerCapitulo.wsx",
-      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/LeerCapitulo.wsx",
-      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/leercapitulo.png",
-      "creador": "AnimeWS",
-      "key": "TGVlckNhcGl0dWxvLEFuaW1lV1MsMjAyNi0wNi0wNCAwNToxMTowMA==",
-      "launcher": "ws.anime.mod.servers.animews.manga.leercapitulo.Main",
-      "version": "3.0.3",
-      "status": "ACTIVE"
-   },
-   {
-      "nombre": "MangaOni",
-      "tipo": "MANGA",
-      "descripcion": "Servidor de manga-oni.com",
-      "file": "MangaOni.wsx",
-      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/MangaOni.wsx",
-      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/mangaoni.png",
-      "creador": "Shoesito",
-      "key": "TWFuZ2FPbmksU2hvZXNpdG8sMjAyNi0wNi0yMSAxMjo0NDowMA==",
-      "launcher": "ws.anime.mod.servers.animews.manga.mangaoni.Main",
-      "version": "3.0.2",
-      "status": "ACTIVE"
-   },
-   {
       "nombre": "HentaiLA",
       "tipo": "HENTAI",
       "descripcion": "Servidor de HentaiLA.com",
@@ -205,6 +166,45 @@
       "key": "UG9ybkhpdHMseGQsMjAyNi0wOS0zMCAxMDozMDowMA==",
       "launcher": "ws.anime.mod.servers.animews.adult.pornhits.Main",
       "version": "1.3.0",
+      "status": "ACTIVE"
+   },
+   {
+      "nombre": "MangasIn",
+      "tipo": "MANGA",
+      "descripcion": "Servidor de Mangas.in",
+      "file": "MangaIn.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/MangaIn.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/mangasin.png",
+      "creador": "AnimeWS",
+      "key": "TWFuZ2FzSW4sQW5pbWVXUywyMDIxLTA5LTA1IDM6NDE6MDA=",
+      "launcher": "ws.anime.mod.servers.animews.manga.mangasin.Main",
+      "version": "3.3.26",
+      "status": "ACTIVE"
+   },
+   {
+      "nombre": "LeerCapitulo",
+      "tipo": "MANGA",
+      "descripcion": "Servidor de LeerCapitulo.co",
+      "file": "LeerCapitulo.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/LeerCapitulo.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/leercapitulo.png",
+      "creador": "AnimeWS",
+      "key": "TGVlckNhcGl0dWxvLEFuaW1lV1MsMjAyNi0wNi0wNCAwNToxMTowMA==",
+      "launcher": "ws.anime.mod.servers.animews.manga.leercapitulo.Main",
+      "version": "3.0.3",
+      "status": "ACTIVE"
+   },
+   {
+      "nombre": "MangaOni",
+      "tipo": "MANGA",
+      "descripcion": "Servidor de manga-oni.com",
+      "file": "MangaOni.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/MangaOni.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/mangaoni.png",
+      "creador": "Shoesito",
+      "key": "TWFuZ2FPbmksU2hvZXNpdG8sMjAyNi0wNi0yMSAxMjo0NDowMA==",
+      "launcher": "ws.anime.mod.servers.animews.manga.mangaoni.Main",
+      "version": "3.0.2",
       "status": "ACTIVE"
    }
 ]
