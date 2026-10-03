@@ -65,6 +65,19 @@
       "status": "ACTIVE"
    },
    {
+      "nombre": "AnimeVer",
+      "tipo": "ANIME",
+      "descripcion": "Anime online en espanol latino (www.animever.net). Subtitulado y latino, servidores Mega/Filemoon/Mp4Upload.",
+      "file": "AnimeVer-101.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/AnimeVer-101.wsx",
+      "icono": "modulos/iconos/animever.png",
+      "creador": "xd",
+      "key": "QW5pbWVWZXIseGQsMjAyNi0xMC0wMiAxOToyMDowMA==",
+      "launcher": "animever",
+      "version": "1.0.1",
+      "status": "NORMAL"
+   },
+   {
       "nombre": "JKAnime",
       "tipo": "ANIME",
       "descripcion": "Servidor de JKAnime.net",
@@ -130,45 +143,6 @@
       "status": "ACTIVE"
    },
    {
-      "nombre": "HentaiLA",
-      "tipo": "HENTAI",
-      "descripcion": "Servidor de HentaiLA.com",
-      "file": "HentaiLA.wsx",
-      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/HentaiLA.wsx",
-      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/hentaila.png",
-      "creador": "AnimeWS",
-      "key": "SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=",
-      "launcher": "ws.anime.mod.servers.animews.hentai.hentaila.Main",
-      "version": "3.5.5",
-      "status": "ACTIVE"
-   },
-   {
-      "nombre": "HentaiSRD",
-      "tipo": "HENTAI",
-      "descripcion": "Servidor de Hentai(S)RD.tv",
-      "file": "HentaiSRD.wsx",
-      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/HentaiSRD.wsx",
-      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/hentaisrd.png",
-      "creador": "AnimeWS",
-      "key": "SGVudGFpU1JELEFuaW1lV1MsMjAyNC0wMi0wNCAxOjI1OjAw",
-      "launcher": "ws.anime.mod.servers.animews.hentai.hentaisrd.Main",
-      "version": "3.0.5",
-      "status": "ACTIVE"
-   },
-   {
-      "nombre": "PornHits",
-      "tipo": "HEROTIC",
-      "descripcion": "PornHits.tv - adultos HD, MP4 directo, busqueda corregida y artistas clicables",
-      "file": "PornHits-130.wsx",
-      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/PornHits-130.wsx",
-      "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/pornhits.png",
-      "creador": "xd",
-      "key": "UG9ybkhpdHMseGQsMjAyNi0wOS0zMCAxMDozMDowMA==",
-      "launcher": "ws.anime.mod.servers.animews.adult.pornhits.Main",
-      "version": "1.3.0",
-      "status": "ACTIVE"
-   },
-   {
       "nombre": "MangasIn",
       "tipo": "MANGA",
       "descripcion": "Servidor de Mangas.in",
@@ -205,6 +179,45 @@
       "key": "TWFuZ2FPbmksU2hvZXNpdG8sMjAyNi0wNi0yMSAxMjo0NDowMA==",
       "launcher": "ws.anime.mod.servers.animews.manga.mangaoni.Main",
       "version": "3.0.2",
+      "status": "ACTIVE"
+   },
+   {
+      "nombre": "HentaiLA",
+      "tipo": "HENTAI",
+      "descripcion": "Servidor de HentaiLA.com",
+      "file": "HentaiLA.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/HentaiLA.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/hentaila.png",
+      "creador": "AnimeWS",
+      "key": "SGVudGFpTEEsQW5pbWVXUywyMDIxLTA1LTAzIDE6MDk6MDA=",
+      "launcher": "ws.anime.mod.servers.animews.hentai.hentaila.Main",
+      "version": "3.5.5",
+      "status": "ACTIVE"
+   },
+   {
+      "nombre": "HentaiSRD",
+      "tipo": "HENTAI",
+      "descripcion": "Servidor de Hentai(S)RD.tv",
+      "file": "HentaiSRD.wsx",
+      "url": "https://github.com/wordshack/AnimeWSTienda/raw/master/module/HentaiSRD.wsx",
+      "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/hentaisrd.png",
+      "creador": "AnimeWS",
+      "key": "SGVudGFpU1JELEFuaW1lV1MsMjAyNC0wMi0wNCAxOjI1OjAw",
+      "launcher": "ws.anime.mod.servers.animews.hentai.hentaisrd.Main",
+      "version": "3.0.5",
+      "status": "ACTIVE"
+   },
+   {
+      "nombre": "PornHits",
+      "tipo": "HEROTIC",
+      "descripcion": "PornHits.tv - adultos HD, MP4 directo, busqueda corregida y artistas clicables",
+      "file": "PornHits-130.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/PornHits-130.wsx",
+      "icono": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/modulos/iconos/pornhits.png",
+      "creador": "xd",
+      "key": "UG9ybkhpdHMseGQsMjAyNi0wOS0zMCAxMDozMDowMA==",
+      "launcher": "ws.anime.mod.servers.animews.adult.pornhits.Main",
+      "version": "1.3.0",
       "status": "ACTIVE"
    }
 ]
