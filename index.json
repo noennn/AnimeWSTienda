@@ -73,7 +73,7 @@
       "icono": "modulos/iconos/animever.png",
       "creador": "xd",
       "key": "QW5pbWVWZXIseGQsMjAyNi0xMC0wMiAxOToyMDowMA==",
-      "launcher": "animever",
+      "launcher": "ws.anime.mod.servers.animews.anime.animever.Main",
       "version": "1.0.1",
       "status": "NORMAL"
    },
