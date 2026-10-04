@@ -68,13 +68,13 @@
       "nombre": "AnimeVer",
       "tipo": "ANIME",
       "descripcion": "Anime online en espanol latino (www.animever.net). Subtitulado y latino, servidores Mega/Filemoon/Mp4Upload.",
-      "file": "AnimeVer-102.wsx",
-      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/AnimeVer-102.wsx",
+      "file": "AnimeVer-103.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/AnimeVer-103.wsx",
       "icono": "modulos/iconos/animever.png",
       "creador": "xd",
       "key": "QW5pbWVWZXIseGQsMjAyNi0xMC0wMiAxOToyMDowMA==",
       "launcher": "ws.anime.mod.servers.animews.anime.animever.Main",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "status": "NORMAL"
    },
    {
@@ -113,7 +113,7 @@
       "creador": "AnimeWS",
       "key": "TGF0QW5pbWUsQW5pbWVXUywyMDI0LTExLTEzIDAzOjIyOjI2",
       "launcher": "ws.anime.mod.servers.animews.anime.latanime.Main",
-      "version": "3.2.1",
+      "version": "3.2.2",
       "status": "ACTIVE"
    },
    {
