@@ -107,13 +107,13 @@
       "nombre": "LatAnime",
       "tipo": "ANIME",
       "descripcion": "Anime en latino, castellano y subtitulado. Todos los episodios y todos los servidores (voe, filemoon, mp4upload, lulu, mxdrop, mega).",
-      "file": "LatAnime-330.wsx",
-      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/LatAnime-330.wsx",
+      "file": "LatAnime-331.wsx",
+      "url": "https://raw.githubusercontent.com/noennn/AnimeWSTienda/master/module/LatAnime-331.wsx",
       "icono": "https://raw.githubusercontent.com/wordshack/AnimeWSTienda/master/modulos/iconos/latanime.png",
       "creador": "AnimeWS",
       "key": "TGF0QW5pbWUsQW5pbWVXUywyMDI0LTExLTEzIDAzOjIyOjI2",
       "launcher": "ws.anime.mod.servers.animews.anime.latanime.Main",
-      "version": "3.3.0",
+      "version": "3.3.1",
       "status": "ACTIVE"
    },
    {
